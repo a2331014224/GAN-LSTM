@@ -4,13 +4,13 @@ This project is based on GaN and LSTM to predict protein secondary structure
 
 1. Operating environment
 
-python = 3.6
+  python = 3.6
 
-tensorflow = 2.2
+  tensorflow = 2.2
 
-keras = 2.3.1
+  keras = 2.3.1
 
-matlab = 2018b
+  matlab = 2018b
 
 2. The document contains the code for building Gan and LSTM, which are put in separate folder.
 
